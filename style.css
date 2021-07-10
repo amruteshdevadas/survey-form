@@ -1,0 +1,35 @@
+body
+{
+    font-family: "Times New Roman", Times, serif;
+    
+    font-size: medium;
+
+}
+
+@media  screen and (max-width:450px) {
+    body{
+font-size: x-small;
+    }
+    .content2{
+        font-size: xx-small;
+    }
+    
+}
+.checked {
+    color: orange;
+  }
+
+.content1{
+background-color: rgb(231, 231, 231);
+}
+.content2{
+    font-size: smaller;
+}
+.content3
+{
+    color: red;
+}
+.content4
+{
+    background-color:rgb(231, 231, 231) ;
+}
